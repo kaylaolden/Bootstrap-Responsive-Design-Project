@@ -1,0 +1,172 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+	background-color: #BA9FFF;
+} 
+.navbar-brand img 	{width: 70px;}
+
+.col-md-3 	 {	 margin-left: 100px;
+				margin-top: 30px;		
+				font-family: VintageKing, serif;}
+
+.img-fluid { width: 500px; }
+
+
+#card1 {margin-left: 350px;
+			margin-bottom: 250px;
+	 		font-family: "oleo script", serif;
+			background-color: #e3c5db;
+			font-size: 25px;}
+
+#card2 	{font-family: "oleo script", serif;
+			background-color: #e3c5db;
+			font-size: 25px; 
+		 margin-top: 50px;
+		 margin-left: 150px;}
+
+#card3  {font-family: "oleo script", serif;
+			background-color: #e3c5db;
+			font-size: 25px;
+			margin-top: 50px;
+		 margin-left: 400px;}
+
+#card4  
+			{background-color: #e3c5db;
+			font-family: "oleo script", serif;
+			margin-top: 50px;
+			 margin-left: 150px;}	
+
+#card5  
+			{background-color: #e3c5db;
+			font-family: "oleo script", serif;
+			margin-top: 55px;
+		 	margin-left: 400px;}
+
+#contactcard { background-color: #e3c5db;
+			font-family: "oleo script", serif;
+			margin-top: 50px;
+			 margin-left: 50px; }		
+
+#storehourscard	{background-color: #e3c5db;
+			font-family: "oleo script", serif;
+			margin-top: 50px;
+			margin-left: 100px;}
+
+#Clothing {font-size: 60px;
+ 			font-family: "oleo script", serif;
+ 		 	letter-spacing: 3px;
+ 		 	text-decoration: underline;
+ 		 	margin-top: 10px; }
+
+ h2 	 { font-size: 75px; 
+ 			font-family: "oleo script", serif;
+ 		   letter-spacing: 3px;
+ 		   text-decoration: underline;}
+
+h3		{font-family: "oleo script", serif;
+		 font-size: 50px;}
+
+h4		{font-family: "oleo script", serif;
+		font-size: 30px; }
+
+h5  	{font-size: 50px; 
+ 		 font-family: "oleo script", serif;
+ 		 letter-spacing: 3px;
+ 		 margin-left: 225px;
+ 		 margin-top: 10px;}
+
+ h6 	{font-size: 35px;}
+
+.card-text		{ font-family:serif; 
+				font-size: 20px;}
+
+.nav-link 	{font-family: "oleo script", serif;
+			font-size: 22px;}
+
+#carousel-row 	{margin-top: 80px;}
+
+#Tops 	{ margin-left: 160px;
+			font-size: 60px;
+ 			font-family: "oleo script", serif;
+  		 	margin-top: 10px; }
+
+#Pants 	{ margin-left: 420px; 
+		font-size: 60px;
+ 		font-family: "oleo script", serif;
+ 		 margin-top: 10px;}
+
+#Shoes 	{ margin-left: 680px; 
+		font-size: 60px;
+ 		font-family: "oleo script", serif;
+ 		 margin-top: 10px;}
+
+ #centerpic { margin-left: 650px; 
+ 		 		width: 200px;}
+
+#centerpic3 { margin-top: 130px;
+ 		 		 }
+ #aboutphoto {margin-top: 50px;
+ 			  margin-left: 50px;}
+
+#aboutcard {margin-top: 50px;
+ 			margin-left: 300px;
+ 			font-family: serif;
+			background-color: #e3c5db;}
+
+ #Accessories 	{font-size: 60px;
+ 				font-family: "oleo script", serif;
+ 		 		letter-spacing: 3px;
+ 		 		text-decoration: underline;
+ 		 		margin-top: 10px;}
+
+ #carousel-row2 	{ margin-top: 80px; } 
+
+ #Jewelry  	{margin-left: 160px;
+			font-size: 60px;
+ 			font-family: "oleo script", serif;
+ 		 	margin-top: 10px;
+ 		 	margin-left: 150px;}
+
+ #Hats 		  {font-size: 60px;
+ 		       font-family: "oleo script", serif;
+ 		 	   margin-top: 10px;
+ 		 	   margin-left: 430px;}
+
+ #More 	    {font-size: 60px;
+ 		 	font-family: "oleo script", serif;
+ 		 	margin-top: 10px;
+ 		 	margin-left: 705px;} 
+
+#centerpic2	 {margin-left: 650px; 
+ 		 	  width: 200px;}
+
+ #Decorations 	{font-size: 60px;
+ 			    font-family: "oleo script", serif;
+ 		 	    letter-spacing: 3px;
+ 		 	    text-decoration: underline;
+ 		 	    margin-top: 10px;}
+
+ #carousel-row3 	{ margin-top: 80px; } 
+
+ #Posters  	{margin-left: 160px;
+			font-size: 60px;
+ 			font-family: "oleo script", serif;
+ 		 	margin-top: 10px;
+ 		 	margin-left: 150px;}
+
+ #Tapestries 	{font-size: 60px;
+ 				font-family: "oleo script", serif;
+ 		 		margin-top: 10px;
+ 		 		margin-left: 375px;}
+
+ #Stickers	  {font-size: 60px;
+ 		 		font-family: "oleo script", serif;
+ 		 		margin-top: 10px;
+ 		 		margin-left: 660px;} 
+
+#welcome 	{margin-top: 20px;
+		 	 margin-left: 500px;}
+#bottomnav {text-align: center;
+	margin-right: 900px;
+	color: #e3c5db;}
+
+
